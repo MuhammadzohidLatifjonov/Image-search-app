@@ -5,7 +5,7 @@
 ### This video shows how to get API keys.
 
 https://github.com/MuhammadzohidLatifjonov/Image-search-app/assets/142134610/2ce920d4-c996-443a-82d3-5ae5ed4c7a4d
-
+# ❗ Once you've got your API keys, drop them into a JavaScript file.
 
 
 
